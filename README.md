@@ -10,7 +10,7 @@ Script 3: Figure 3a-b
 
 Script 4: Supplementary Figure 6 
 
-Script 5: Figure 2 Script 6: Figure 6d, Supplementary Table 1 
+Script 5: Figure 2
 
 Script 6: Supplementary table 1, Figure 6d
 
